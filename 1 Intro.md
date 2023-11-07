@@ -3,7 +3,6 @@
 - Web Pages - Basic Components (HTML, CSS, JS)
 - Websites - Interconnected Pages
 - Web App - Website relying on dynamic, user-generated data
-
 ## **URL and Web Addresses**
 - Uniform Resource Locator 
 	- https://www.google.com

@@ -182,15 +182,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "724a84a81d26b857",
   "lastOpenFiles": [
     "1 Intro.md",
+    "2 HTML.md",
     "Pics",
     "Pics/Pasted image 20231106232658.png",
-    "2 HTML.md",
     "2023-11-06.md",
     "Untitled.canvas",
     "Workshops",
