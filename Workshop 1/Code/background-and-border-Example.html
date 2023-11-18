@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Backgrounds and Borders Example</title>
+    <style>
+        .background {
+            height: 400px;
+            width: 400px;
+            /* background-color: #CF4EDE; */
+            background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5));
+            border: 2px dashed orange;
+            padding: 20px;
+            margin: 30px;
+        }
+        .border-radius {
+            height: 200px;
+            width: 200px;
+            background-color: rgb(255, 100, 0);
+            /* border: 1px solid green; */
+            border: 5px double #32a1ce;
+            border-radius: 50%;
+            margin: 30px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .content {
+            text-align: center; /* Center the text horizontally */
+        }
+    </style>
+</head>
+<body>
+    <div class="background">Background and Border Example</div>
+    <div class="border-radius">
+        <div class="content">Border Radius Example</div>
+    </div>
+</body>
+</html>
