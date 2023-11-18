@@ -33,14 +33,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 HTML.md",
+                "file": "1 Intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08f4ff22c99b38ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 Outline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1cd8f4e78278b14a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 Basic CSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf3f09058010c18a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 Outline.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -106,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 HTML.md",
+                "file": "0 Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 HTML.md",
+                "file": "0 Outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 HTML.md"
+                "file": "0 Outline.md"
               }
             }
           },
@@ -187,10 +223,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "724a84a81d26b857",
+  "active": "bf3f09058010c18a",
   "lastOpenFiles": [
-    "1 Intro.md",
+    "4 Advanced CSS.md",
+    "3 Basic CSS.md",
+    "0 Outline.md",
     "2 HTML.md",
+    "1 Intro.md",
     "Pics",
     "Pics/Pasted image 20231106232658.png",
     "2023-11-06.md",
