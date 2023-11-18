@@ -29,7 +29,7 @@
 A fundamental design pattern where processes are divided between the client and server components
 - For efficient communication and resource management
 - Basically, divide the tasks to specialized components so they get done faster
-![[Pasted image 20231106232658.png]]
+![[Client-Server-Architechture.png]]
 ### **Presentation Tier**
 - Clients presenting info from the servers
 - Devices showing apps, websites, etc.

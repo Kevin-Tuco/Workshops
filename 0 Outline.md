@@ -25,4 +25,5 @@ Transforms, Transitions, and Animations
 - CSS Transitions (transition-property, transition-duration)
 - CSS Animations (keyframes, animation property)
 
-Flexbox
+Flexbox (Ngl, the website is gonna explain it better than me XD)
+Grid (Explaining through mdn and a website)
