@@ -1,5 +1,5 @@
 ## The Rundown
-Hypertext <u>Markup</u> Language
+HyperText <u>Markup</u> Language
 - This isn't a programming language
 
 Describes the structure of a webpage
@@ -41,8 +41,20 @@ The code you see above is something you will see in most wepbages
 		- What the user will see when they open the page
 
 ## Basic HTML Elements
+Headers ```<h1>-<h6>```
+Lists ```<ul>,<li>```
+Images ```<img>```
+Paragraphs ```<p>```
+Anchor ```<a>```
+Button ```<button>```
+Div ```<div>```
+Span ```<span>```
+Styles (Put in the head portion of the html)```<style>```
+Input ```<Input>```
+Form ```<Form>```
 
+And a lot more! Checkout the MDN Docs for more!
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 
-
-
-
+General HTML Reference:
+https://developer.mozilla.org/en-US/docs/Web/HTML
