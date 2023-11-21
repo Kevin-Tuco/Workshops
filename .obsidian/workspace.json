@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Workshop 1/1 Intro.md",
+                "file": "Workshop 1/0 Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Workshop 1/1 Intro.md",
+                "file": "Workshop 1/0 Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Workshop 1/3 Basic CSS.md",
+                "file": "Workshop 1/2 Basic CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,9 +74,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9a9d74b31903f9f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 VS-Code Setup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33300da83b248411",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Workshop 1/2 Basic CSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -126,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "9c5dda5c52f4cd50",
@@ -142,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 Outline.md",
+                "file": "Workshop 1/2 Basic CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 Outline.md",
+                "file": "Workshop 1/2 Basic CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 Outline.md"
+                "file": "Workshop 1/2 Basic CSS.md"
               }
             }
           },
@@ -224,8 +248,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "bf3f09058010c18a",
+  "active": "33300da83b248411",
   "lastOpenFiles": [
+    "Workshop 2/0 Advanced CSS.md",
+    "Workshop 1/2 Basic CSS.md",
+    "Workshop 1/0 Intro.md",
+    "Workshop 1/1 HTML.md",
+    "0 Outline.md",
+    "1 VS-Code Setup.md",
+    "2 Obsidian Setup.md",
     "Workshop 1/Code/basic-HTML.css",
     "Workshop 1/Code/typhographyExample.html",
     "Workshop 1/Code/positioning-example.html",
@@ -235,17 +266,11 @@
     "Workshop 1/Code/basic-HTML.html",
     "Workshop 1/Code",
     "Workshop 1/New folder",
-    "Workshop 1/3 Basic CSS.md",
-    "Workshop 1/1 Intro.md",
-    "0 Outline.md",
-    "Workshop 1/2 HTML.md",
-    "Workshop 2/4 Advanced CSS.md",
     "Pasted image 20231118190106.png",
     "Pasted image 20231106232658.png.md",
     "Pics/Client-Server-Architechture.png",
     "Pics/Pasted image 20231106232658.png",
     "Workshop 2",
-    "Workshop 1",
     "2023-11-06.md",
     "Untitled.canvas"
   ]

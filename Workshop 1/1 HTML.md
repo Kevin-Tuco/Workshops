@@ -53,7 +53,7 @@ Styles (Put in the head portion of the html)```<style>```
 Input ```<Input>```
 Form ```<Form>```
 
-And a lot more! Checkout the MDN Docs for more!
+And a lot more! Checkout the MDN Docs!
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 
 General HTML Reference:
