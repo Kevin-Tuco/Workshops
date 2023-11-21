@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Workshop 1/2 Basic CSS.md",
+                "file": "0 Outline.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workshop 1/2 Basic CSS.md",
+                "file": "0 Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Workshop 1/2 Basic CSS.md",
+                "file": "0 Outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Workshop 1/2 Basic CSS.md"
+                "file": "0 Outline.md"
               }
             }
           },
@@ -250,13 +250,13 @@
   },
   "active": "33300da83b248411",
   "lastOpenFiles": [
-    "Workshop 2/0 Advanced CSS.md",
+    "2 Obsidian Setup.md",
     "Workshop 1/2 Basic CSS.md",
+    "Workshop 2/0 Advanced CSS.md",
     "Workshop 1/0 Intro.md",
     "Workshop 1/1 HTML.md",
     "0 Outline.md",
     "1 VS-Code Setup.md",
-    "2 Obsidian Setup.md",
     "Workshop 1/Code/basic-HTML.css",
     "Workshop 1/Code/typhographyExample.html",
     "Workshop 1/Code/positioning-example.html",
